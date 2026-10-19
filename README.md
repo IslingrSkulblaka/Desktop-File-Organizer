@@ -1,6 +1,6 @@
 # Automated Global File Organizer
 
-A AI-assisted, production-ready Python automation utility that continuously monitors major system folders (Downloads, Documents, Desktop, Pictures) and instantly files incoming documents, media, and raw assets into structured sub-directories.
+An AI-assisted, production-ready Python automation utility that continuously monitors major system folders (Downloads, Documents, Desktop, Pictures) and instantly files incoming documents, media, and raw assets into structured sub-directories.
 
 ## Features
 * Simultaneously watches Desktop, Documents, Pictures, and Downloads.
